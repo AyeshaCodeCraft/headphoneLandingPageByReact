@@ -25,8 +25,6 @@ A modern, responsive headphone e-commerce landing page built using **React**, **
 
 ---
 
----
-
 ## Installation & Setup
 
 Clone the repository:
@@ -50,10 +48,15 @@ npm run dev
 ## Animations Used:
 
 Fade Up on Scroll (AOS / Framer Motion)
+
 Staggered card animations
+
 Hover scale effects
+
 Smooth entrance transitions
+
 Custom cursor interaction effects
+
 
 ## Author
 
