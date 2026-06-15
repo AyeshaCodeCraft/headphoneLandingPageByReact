@@ -61,4 +61,9 @@ Custom cursor interaction effects
 ## Author
 
 Ayesha Ramzan
+
 Frontend Developer 
+
+## Live Preview
+
+https://headphone-react.netlify.app/
