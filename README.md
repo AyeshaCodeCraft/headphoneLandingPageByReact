@@ -1,16 +1,85 @@
-# React + Vite
+# Playing Market – Headphone Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive headphone e-commerce landing page built using **React**, **Tailwind CSS**, and **Framer Motion** with smooth animations and interactive UI effects.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- ⚡ Modern UI/UX design
+- 🎨 Fully responsive layout (mobile, tablet, desktop)
+- 🎬 Smooth scroll animations using Framer Motion 
+- 🖱️ Interactive custom cursor effect (mouse follower)
+- 🎯 Fully component-based React architecture
+- 🌈 Tailwind CSS for styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- react-mouse-follower
+
+---
+
+## Project Structure
+
+
+src/
+│
+├── assets/ # Images & icons
+├── components/
+│ ├── Navbar/
+│ ├── Hero/
+│ ├── Services/
+│ ├── Shop/
+│ ├── Blogs/
+│ ├── Footer/
+│
+├── App.jsx
+├── main.jsx
+
+
+---
+
+## Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AyeshaCodeCraft/headphoneLandingPageByReact.git
+
+Move into the project:
+
+cd playing-market
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+Build for Production
+npm run build
+Animations Used
+Fade Up on Scroll (Framer Motion)
+Staggered card animations
+Hover scale effects
+Smooth entrance transitions
+Custom cursor interaction effects
+Responsive Design
+
+Fully optimized for:
+
+Mobile phones
+Tablets 
+Desktop
+ 
+Author
+
+Ayesha Ramzan
+Frontend Developer 
