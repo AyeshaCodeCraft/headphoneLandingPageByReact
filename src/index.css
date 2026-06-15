@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&family=Varela+Round&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-primary: #aa6d6b;
+  --color-brand-dark: #151616;
+
+  /* Font Families */
+  --font-poppins: "Poppins", sans-serif;
+  --font-varela: "Varela Round", sans-serif;
+
+  /* Container Overrides */
+  --container-center: true;
+  --container-padding: 1rem;
+  --container-padding-sm: 2rem;
+  --container-padding-lg: 4rem;
+  --container-padding-xl: 5rem;
+  --container-padding-2xl: 6rem;
+}
