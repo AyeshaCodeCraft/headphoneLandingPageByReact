@@ -25,24 +25,6 @@ A modern, responsive headphone e-commerce landing page built using **React**, **
 
 ---
 
-## Project Structure
-
-
-src/
-│
-├── assets/ # Images & icons
-├── components/
-│ ├── Navbar/
-│ ├── Hero/
-│ ├── Services/
-│ ├── Shop/
-│ ├── Blogs/
-│ ├── Footer/
-│
-├── App.jsx
-├── main.jsx
-
-
 ---
 
 ## Installation & Setup
@@ -51,35 +33,29 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/AyeshaCodeCraft/headphoneLandingPageByReact.git
+```
 
-Move into the project:
+Move into the project and install dependencies:
 
-cd playing-market
-
-Install dependencies:
-
+```bash
 npm install
+```
 
 Run development server:
 
+```bash
 npm run dev
-Build for Production
-npm run build
-Animations Used
-Fade Up on Scroll (Framer Motion)
+```
+
+## Animations Used:
+
+Fade Up on Scroll (AOS / Framer Motion)
 Staggered card animations
 Hover scale effects
 Smooth entrance transitions
 Custom cursor interaction effects
-Responsive Design
 
-Fully optimized for:
-
-Mobile phones
-Tablets 
-Desktop
- 
-Author
+## Author
 
 Ayesha Ramzan
 Frontend Developer 
